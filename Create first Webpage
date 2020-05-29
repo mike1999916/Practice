@@ -1,10 +1,19 @@
 <html>
-<head>First Webpage</head>
-<title> First Webpage </title>
-<body>
+  <title> First Webpage </title>
+  <head><h1>How to be a Software Engineer<h1></head>
+
+  <body>
+    <ol>
+      <li> Get an Education. Completing a formal education is the first step toward becoming a software engineer</li>
+      <li> Do an Internship.</li>
+      <li> Pursue a Specialization.</li>
+      <li> Pursue Entry-Level Career Opportunities.</li>
+      <li> Get Certified.</li>
+      <li> Attend Conferences.</li>
+      <li> Earn a Graduate Degree.</li>
+     </ol>
+      
+  </body>
 
 
-</body>
-
-
-</title>
+</html
